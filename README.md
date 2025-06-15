@@ -85,10 +85,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Name**: Sanket Desai
+- **Email**: sanketdesai1971@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/sanket-desai-/
+- **GitHub**: https://github.com/sanketInTech
 
 ## License
 

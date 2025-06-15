@@ -61,7 +61,7 @@ python scripts/process_data.py
 python scripts/dashboard.py
 ```
 
-4. Access the dashboard at: http://127.0.0.1:8080
+4. Access the dashboard at: http://127.0.0.1:3000/
 
 ## Technical Details
 

@@ -82,9 +82,4 @@ with col6:
 
 with col7:
     total_orders = len(df)
-    st.metric("Total Orders", f"{total_orders:,}")
-
-# For Railway deployment
-if __name__ == '__main__':
-    st.run() 
-    
+    st.metric("Total Orders", f"{total_orders:,}") 

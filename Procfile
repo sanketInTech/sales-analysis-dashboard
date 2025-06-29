@@ -1,1 +1,1 @@
-web: gunicorn scripts.dashboard:server 
+web: bash start.sh 
